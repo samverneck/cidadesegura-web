@@ -1,0 +1,27 @@
+doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>Cidade Segura</title>
+</head>
+<body>
+
+		<div class="cd-slider-nav">
+			<a class="cd-prev" href="#0">Previous</a>
+			<a class="cd-next" href="#0">Next</a>
+		</div> <!-- cd-slider-nav -->
+
+		<div class="cd-loader"></div> <!-- top loading bar -->
+	</main>
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
